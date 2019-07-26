@@ -1,0 +1,7 @@
+﻿  myCToLua.cpp
+c:\users\wanteng\desktop\myctolua\myctolua\myctolua.h(11): warning C4005: “LUA_API”: 宏重定义
+  d:\lua\5.1\include\luaconf.h(164): note: 参见“LUA_API”的前一个定义
+c:\users\wanteng\desktop\myctolua\myctolua\myctolua.cpp(37): warning C4273: “luaopen_myCToLua”: dll 链接不一致
+  c:\users\wanteng\desktop\myctolua\myctolua\myctolua.h(14): note: 参见“luaopen_myCToLua”的前一个定义
+    正在创建库 C:\Users\wanteng\Desktop\myCToLua\Debug\myCToLua.lib 和对象 C:\Users\wanteng\Desktop\myCToLua\Debug\myCToLua.exp
+  myCToLua.vcxproj -> C:\Users\wanteng\Desktop\myCToLua\Debug\myCToLua.dll

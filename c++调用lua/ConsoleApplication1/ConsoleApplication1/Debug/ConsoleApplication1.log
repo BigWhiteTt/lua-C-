@@ -1,0 +1,103 @@
+﻿  ConsoleApplication1.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(18): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(18): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(19): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(21): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(28): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(28): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(29): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstdlib(31): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(15): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(15): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(16): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(21): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(28): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(28): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(29): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(31): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(38): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(38): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(39): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(41): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(48): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(48): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(49): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(51): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(58): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(58): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(59): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(61): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(69): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(69): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(70): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(72): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(79): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(79): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(80): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(82): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(89): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(89): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(90): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(92): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(99): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(99): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(100): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(102): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(109): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(109): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(110): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(112): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(119): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(119): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(120): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(122): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(130): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(130): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(131): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(133): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(140): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(140): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(141): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(143): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(150): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(150): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(151): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(153): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(160): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(160): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(161): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(163): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(170): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(170): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(171): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(173): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(180): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(180): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(181): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(183): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(190): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(190): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(191): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(193): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(200): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(200): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(201): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(203): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(210): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(210): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(211): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(213): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(220): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(220): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(221): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(223): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(231): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(231): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(232): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(234): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(242): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(242): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(243): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(248): error C2059: 语法错误:“}”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(256): error C2061: 语法错误: 标识符“noexcept”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cmath(256): fatal error C1003: 错误计数超过 100；正在停止编译

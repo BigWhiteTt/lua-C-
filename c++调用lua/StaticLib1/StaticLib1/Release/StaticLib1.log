@@ -1,0 +1,128 @@
+﻿  stdafx.cpp
+  lapi.c
+c:\users\wanteng\desktop\lua535\src\lapi.c(1300): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lauxlib.c
+c:\users\wanteng\desktop\lua535\src\lauxlib.c(267): warning C4005: “l_inspectstat”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\lauxlib.c(263): note: 参见“l_inspectstat”的前一个定义
+c:\users\wanteng\desktop\lua535\src\lauxlib.c(1044): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lbaselib.c
+c:\users\wanteng\desktop\lua535\src\lbaselib.c(499): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lbitlib.c
+c:\users\wanteng\desktop\lua535\src\lbitlib.c(234): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lcode.c
+c:\users\wanteng\desktop\lua535\src\lcode.c(1204): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lcorolib.c
+c:\users\wanteng\desktop\lua535\src\lcorolib.c(169): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lctype.c
+c:\users\wanteng\desktop\lua535\src\lctype.c(56): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ldblib.c
+c:\users\wanteng\desktop\lua535\src\ldblib.c(457): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ldebug.c
+c:\users\wanteng\desktop\lua535\src\ldebug.c(700): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ldo.c
+c:\users\wanteng\desktop\lua535\src\ldo.c(66): warning C4005: “LUAI_THROW”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\ldo.c(58): note: 参见“LUAI_THROW”的前一个定义
+c:\users\wanteng\desktop\lua535\src\ldo.c(67): warning C4005: “LUAI_TRY”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\ldo.c(60): note: 参见“LUAI_TRY”的前一个定义
+c:\users\wanteng\desktop\lua535\src\ldo.c(68): warning C4005: “luai_jmpbuf”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\ldo.c(61): note: 参见“luai_jmpbuf”的前一个定义
+c:\users\wanteng\desktop\lua535\src\ldo.c(73): warning C4005: “LUAI_THROW”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\ldo.c(66): note: 参见“LUAI_THROW”的前一个定义
+c:\users\wanteng\desktop\lua535\src\ldo.c(74): warning C4005: “LUAI_TRY”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\ldo.c(67): note: 参见“LUAI_TRY”的前一个定义
+c:\users\wanteng\desktop\lua535\src\ldo.c(803): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ldump.c
+c:\users\wanteng\desktop\lua535\src\ldump.c(216): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lfunc.c
+c:\users\wanteng\desktop\lua535\src\lfunc.c(152): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lgc.c
+c:\users\wanteng\desktop\lua535\src\lgc.c(1180): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  linit.c
+c:\users\wanteng\desktop\lua535\src\linit.c(69): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  liolib.c
+c:\users\wanteng\desktop\lua535\src\liolib.c(64): warning C4005: “l_popen”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(59): note: 参见“l_popen”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(65): warning C4005: “l_pclose”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(60): note: 参见“l_pclose”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(73): warning C4005: “l_popen”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(64): note: 参见“l_popen”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(74): warning C4005: “l_pclose”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(65): note: 参见“l_pclose”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(90): warning C4005: “l_getc”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(86): note: 参见“l_getc”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(91): warning C4005: “l_lockfile”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(87): note: 参见“l_lockfile”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(92): warning C4005: “l_unlockfile”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(88): note: 参见“l_unlockfile”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(118): warning C4005: “l_fseek”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(110): note: 参见“l_fseek”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(119): warning C4005: “l_ftell”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(111): note: 参见“l_ftell”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(120): warning C4005: “l_seeknum”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(112): note: 参见“l_seeknum”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(125): warning C4005: “l_fseek”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(118): note: 参见“l_fseek”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(126): warning C4005: “l_ftell”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(119): note: 参见“l_ftell”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(127): warning C4005: “l_seeknum”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\liolib.c(120): note: 参见“l_seeknum”的前一个定义
+c:\users\wanteng\desktop\lua535\src\liolib.c(777): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  llex.c
+c:\users\wanteng\desktop\lua535\src\llex.c(566): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lmathlib.c
+c:\users\wanteng\desktop\lua535\src\lmathlib.c(32): warning C4005: “l_rand”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\lmathlib.c(28): note: 参见“l_rand”的前一个定义
+c:\users\wanteng\desktop\lua535\src\lmathlib.c(33): warning C4005: “l_srand”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\lmathlib.c(29): note: 参见“l_srand”的前一个定义
+c:\users\wanteng\desktop\lua535\src\lmathlib.c(34): warning C4005: “L_RANDMAX”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\lmathlib.c(30): note: 参见“L_RANDMAX”的前一个定义
+c:\users\wanteng\desktop\lua535\src\lmathlib.c(411): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lmem.c
+c:\users\wanteng\desktop\lua535\src\lmem.c(101): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  loadlib.c
+c:\users\wanteng\desktop\lua535\src\loadlib.c(117): warning C4005: “cast_func”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loadlib.c(115): note: 参见“cast_func”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loadlib.c(225): warning C4005: “LIB_FAIL”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loadlib.c(64): note: 参见“LIB_FAIL”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loadlib.c(791): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lobject.c
+c:\users\wanteng\desktop\lua535\src\lobject.c(523): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在编译...
+  lopcodes.c
+c:\users\wanteng\desktop\lua535\src\lopcodes.c(125): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  loslib.c
+c:\users\wanteng\desktop\lua535\src\loslib.c(47): warning C4005: “LUA_STRFTIMEOPTIONS”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loslib.c(45): note: 参见“LUA_STRFTIMEOPTIONS”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loslib.c(49): warning C4005: “LUA_STRFTIMEOPTIONS”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loslib.c(47): note: 参见“LUA_STRFTIMEOPTIONS”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loslib.c(92): warning C4005: “l_gmtime”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loslib.c(86): note: 参见“l_gmtime”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loslib.c(93): warning C4005: “l_localtime”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loslib.c(87): note: 参见“l_localtime”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loslib.c(130): warning C4005: “LUA_TMPNAMBUFSIZE”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loslib.c(115): note: 参见“LUA_TMPNAMBUFSIZE”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loslib.c(131): warning C4005: “lua_tmpnam”: 宏重定义
+  c:\users\wanteng\desktop\lua535\src\loslib.c(125): note: 参见“lua_tmpnam”的前一个定义
+c:\users\wanteng\desktop\lua535\src\loslib.c(410): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lparser.c
+c:\users\wanteng\desktop\lua535\src\lparser.c(1651): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lstate.c
+c:\users\wanteng\desktop\lua535\src\lstate.c(348): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lstring.c
+c:\users\wanteng\desktop\lua535\src\lstring.c(249): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lstrlib.c
+c:\users\wanteng\desktop\lua535\src\lstrlib.c(1585): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ltable.c
+c:\users\wanteng\desktop\lua535\src\ltable.c(689): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ltablib.c
+c:\users\wanteng\desktop\lua535\src\ltablib.c(451): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ltm.c
+c:\users\wanteng\desktop\lua535\src\ltm.c(166): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lundump.c
+c:\users\wanteng\desktop\lua535\src\lundump.c(280): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lutf8lib.c
+c:\users\wanteng\desktop\lua535\src\lutf8lib.c(257): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lvm.c
+c:\users\wanteng\desktop\lua535\src\lvm.c(1323): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lzio.c
+c:\users\wanteng\desktop\lua535\src\lzio.c(69): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
